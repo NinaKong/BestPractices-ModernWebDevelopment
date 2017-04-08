@@ -52,6 +52,7 @@ CSS:
     }
     ```
 7) Use modular CSS Name convention: BEM - The Block, Element, Modifier methodology
+   
    The following example is from ROBIN RENDLE https://css-tricks.com/bem-101/
     ```
     /* Block component */
