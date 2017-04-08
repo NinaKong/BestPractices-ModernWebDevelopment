@@ -6,7 +6,7 @@ CSS Optimizations
 2) Ultilize minified CSS file
 3) Avoide to use duplicated styles
 4) Even though CSS files are downloaded in parallel, combine all the CSS files if possible, it can reduce the http calls to server
-5) Consider for browser compatibilities, do not style in a HTML5 element, use .header
+5) Consider for browser compatibilities, do not style in a HTML5 element, use .header instead
     ```
     <header>
         <div class="header">
