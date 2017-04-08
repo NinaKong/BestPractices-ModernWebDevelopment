@@ -51,6 +51,7 @@ CSS:
       cursor: pointer;
     }
     ```
+7) Use modular CSS Name convention: BEM - The Block, Element, Modifier methodology
 
 Javascript:
 1) Combine all the script files 
