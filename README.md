@@ -52,7 +52,18 @@ CSS:
     }
     ```
 7) Use modular CSS Name convention: BEM - The Block, Element, Modifier methodology
+   The following example is from ROBIN RENDLE https://css-tricks.com/bem-101/
+    ```
+    /* Block component */
+    .btn {}
 
+    /* Element that depends upon the block */ 
+    .btn__price {}
+
+    /* Modifier that changes the style of the block */
+    .btn--orange {} 
+    .btn--big {}
+    ```
 Javascript:
 1) Combine all the script files 
 2) Do not use inline script if possible
