@@ -1,7 +1,11 @@
 # BestPractices-ModernWebDevelopment
 
-CSS:
+HTML:
+1) Do not use tabular layouts, it is not user friendly for screen readers
+2) Try to use percentage for width/height, it is better for responsive website
+3) Decrease unnecessary tages to reduce page weight
 
+CSS:
 1) Do not use inline CSS styles 
 2) Ultilize minified CSS file
 3) Avoide to use duplicated styles
@@ -53,11 +57,6 @@ Javascript:
 2) Do not use inline script if possible
 3) Use minified javascript file
 4) Only load the script is needed before page load
-
-HTML:
-1) Do not use tabular layouts, it is not user friendly for screen readers
-2) Try to use percentage for width/height, it is better for responsive website
-3) Decrease unnecessary tages to reduce page weight
 
 Image:
 
