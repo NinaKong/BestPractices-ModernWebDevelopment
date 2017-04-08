@@ -1,6 +1,6 @@
 # BestPractices-ModernWebDevelopment
 
-CSS Optimizations
+CSS:
 
 1) Do not use inline CSS styles 
 2) Ultilize minified CSS file
@@ -47,4 +47,17 @@ CSS Optimizations
       cursor: pointer;
     }
     ```
+
+Javascript:
+1) Combine all the script files 
+2) Do not use inline script if possible
+3) Use minified javascript file
+4) Only load the script is needed before page load
+
+HTML:
+1) Do not use tabular layouts, it is not user friendly for screen readers
+2) Try to use percentage for width/height, it is better for responsive website
+3) Decrease unnecessary tages to reduce page weight
+
+Image:
 
