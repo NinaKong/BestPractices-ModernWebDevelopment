@@ -2,7 +2,7 @@
 
 CSS Optimizations
 
-1) Do not use using inline CSS styles 
+1) Do not use inline CSS styles 
 2) Ultilize minified CSS file
 3) Avoide to use duplicated styles
 4) Even though CSS files are downloaded in parallel, combine all the CSS files if possible, it can reduce the http calls to server
