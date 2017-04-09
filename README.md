@@ -73,7 +73,7 @@ Javascript:
 4) Only load the script is needed before page load
 5) Use asynchronous method if possible, it will decrease page load time
 
-   AJAX Example: Use ```XMLHttpRequest```,  it can get and send aHTTP requests
+   AJAX Example: Use ```XMLHttpRequest```,  it can get and send HTTP requests
    
    a. Create http request - initialize ```XMLHttpRequest```
    
