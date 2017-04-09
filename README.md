@@ -71,6 +71,16 @@ Javascript:
 2) Do not use inline script if possible
 3) Use minified javascript file
 4) Only load the script is needed before page load
+5) Use asynchronous method if possible, it will decrease page load time
+   AJAX Example:
+   Use ```XMLHttpRequest```,  it can get and send aHTTP requests
+   a. Create http request - initialize ```XMLHttpRequest```
+   ```
+   var xhr = new XMLHttpRequest();
+   ```
+
+var xhr = new XMLHttpRequest();
+   
 
 Image:
 
