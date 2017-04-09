@@ -72,14 +72,26 @@ Javascript:
 3) Use minified javascript file
 4) Only load the script is needed before page load
 5) Use asynchronous method if possible, it will decrease page load time
-   AJAX Example:
-   Use ```XMLHttpRequest```,  it can get and send aHTTP requests
+
+   AJAX Example: Use ```XMLHttpRequest```,  it can get and send aHTTP requests
+   
    a. Create http request - initialize ```XMLHttpRequest```
+   
    ```
    var xhr = new XMLHttpRequest();
    ```
+   
+   b. Use ```open```, it has three arguments
+   
+   ```
+   xhr.open('GET', "url", true);
+   //first argument: it has GET, POST, PUT, and DELETE. since we would like to get information, so we are using GET
+   //second argument: URL. Put the URL you would like to get date with
+   //third argument: requst asynchronous or synchronous. True means asynchronous request, it will make sure the web page is responsive and the remaining code is still running
+   ```
 
-var xhr = new XMLHttpRequest();
+
+
    
 
 Image:
