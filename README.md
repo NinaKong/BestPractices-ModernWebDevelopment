@@ -1,4 +1,5 @@
 # BestPractices-ModernWebDevelopment
+Best Practices of Modern Web Development
 
 HTML:
 1) Do not use tabular layouts, it is not user friendly for screen readers
