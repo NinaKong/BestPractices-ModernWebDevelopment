@@ -87,9 +87,9 @@ Javascript:
    xhr.open('GET', "url", true);
    ```
    
-   First argument: it has GET, POST, PUT, and DELETE. since we would like to get information, so we are using GET
-   Second argument: URL. Put the URL you would like to get date with
-   Third argument: requst asynchronous or synchronous. True means asynchronous request, it will make sure the web page is responsive and the remaining code is still running
+   - First argument: it has GET, POST, PUT, and DELETE. since we would like to get information, so we are using GET
+   - Second argument: URL. Put the URL you would like to get date with
+   - Third argument: requst asynchronous or synchronous. True means asynchronous request, it will make sure the web page is responsive and the remaining code is still running
    
    c. ```send``` method, it will send the request
    
