@@ -74,3 +74,6 @@ Javascript:
 
 Image:
 
+Search Engine Optimization (SEO):
+1) Create title and description
+2) Add Image tag
