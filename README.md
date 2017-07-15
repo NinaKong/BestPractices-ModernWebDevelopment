@@ -102,6 +102,13 @@ Image:
 
 
 Search Engine Optimization (SEO):
-1) Create title and description
-2) Add Image tag
-3) Clean URLs: https://www.example.com/category/product-name
+1) Title tag: use the most important target keyword
+   ```
+   <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
+   ```
+2) Meta description: it is not used for ranking directly, but still important for SEO
+   ```
+   <meta name="description” content=”Your page meta description, no more than 160 characters.”/>
+   ```
+3) Add Image tag
+4) Clean URLs: https://www.example.com/category/product-name
