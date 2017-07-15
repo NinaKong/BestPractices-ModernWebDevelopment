@@ -5,7 +5,7 @@ HTML:
 1) Do not use tabular layouts, it is not user friendly for screen readers
 2) Try to use percentage for width/height, it is better for responsive website
 3) Decrease unnecessary tages to reduce page weight
-4) Write cleaner and concise code, and pay attention to code weight
+4) Quality code: cleaner and concise code, and code weight
 
 CSS:
 1) Do not use inline CSS styles 
