@@ -1,6 +1,19 @@
 # BestPractices-ModernWebDevelopment
 Best Practices of Modern Web Development
 
+Search Engine Optimization (SEO):
+1) Title tag: use the most important target keyword
+   ```
+   <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
+   ```
+2) Meta description: it is not used for ranking directly, but still important for SEO
+   ```
+   <meta name="description” content=”Your page meta description, no more than 160 characters.”/>
+   ```
+3) Add Image tag
+4) Clean URLs: https://www.example.com/category/product-name
+5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
+
 HTML:
 1) Do not use tabular layouts, it is not user friendly for screen readers
 2) Try to use percentage for width/height, it is better for responsive website
@@ -102,15 +115,3 @@ Javascript:
 Image:
 
 
-Search Engine Optimization (SEO):
-1) Title tag: use the most important target keyword
-   ```
-   <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
-   ```
-2) Meta description: it is not used for ranking directly, but still important for SEO
-   ```
-   <meta name="description” content=”Your page meta description, no more than 160 characters.”/>
-   ```
-3) Add Image tag
-4) Clean URLs: https://www.example.com/category/product-name
-5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
