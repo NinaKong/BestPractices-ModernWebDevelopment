@@ -2,7 +2,7 @@
 Best Practices of Modern Web Development
 
 ## Table of Contents
-  - [Search Engine Optimization (SEO)](#Search-Engine-Optimization-SEO)
+  - [Search Engine Optimization (SEO)](#search-engine-optimization-seo)
   - [User Interface (UI) design](#User-Interface-UI-design)
   - [User Experience (UX)](#User-Experience-UX)
   - [HTML](#html)
