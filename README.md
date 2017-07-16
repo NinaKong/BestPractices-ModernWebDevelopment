@@ -64,7 +64,20 @@ Best Practices of Modern Web Development
    - Operable: User interface components and navigation must be operable
    - Understandable: Information and the operation of user interface must be understandable
    - Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
-2) 
+2) Navigate website with a keyboard only
+   - Tab in a logical order
+   - Enter, edit, or submit a form
+   - Left, right, up and down arrow keys to navigate
+   - Enter key to take an action
+3) Text Clarity and concise: double-check your spelling and grammar
+4) Don’t rely exclusively on color
+5) Provide appropriate alternative text: helpful for people who are blind and rely on a screen reader to have the content of the website 
+    ```
+    <img src="smile-face.gif" alt="Smile face">
+    ```
+6) Provide headers for data tables
+7) Ensure users can complete and submit all forms: Ensure that every form element (text field, checkbox, dropdown list, etc.) has a label and make sure that label is associated to the correct form element using the <label> element
+8) Try to avoid slideshow
 
 ## HTML
 1) Do not use tabular layouts, it is not user friendly for screen readers
