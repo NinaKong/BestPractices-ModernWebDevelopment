@@ -1,6 +1,7 @@
 # BestPractices-ModernWebDevelopment
 Best Practices of Modern Web Development
 
+
 Search Engine Optimization (SEO):
 1) Title tag: use the most important target keyword
    ```
@@ -13,6 +14,14 @@ Search Engine Optimization (SEO):
 3) Add Image tag
 4) Clean URLs: https://www.example.com/category/product-name
 5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
+
+User Interface (UI) design:
+1) Keep a simple interface: avoid unnecessary elements, clear for labels and error messages, and reduce frustration for users
+2) Keep web page consistency
+3) Be purposeful in page layout: draw attention to the most important pieces of information, such as checkout button
+4) Use color and texture strategically : attention toward or redirect attention away from items using color, light, contrast, and texture to your advantage
+5) Use typography to create hierarchy and clarity: different sizes, fonts, and arrangement of the text to help increase readability.
+
 
 HTML:
 1) Do not use tabular layouts, it is not user friendly for screen readers
