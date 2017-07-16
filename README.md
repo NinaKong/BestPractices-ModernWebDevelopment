@@ -27,7 +27,8 @@ Best Practices of Modern Web Development
 2) Avoid external links: keep users on your website as long as possible
 3) Make responsive website
 4) For long text/paragraph, make proper width
-5) Use common/established/standard design patterns: avoid confusion visitors. 
+5) Use common/established/standard design patterns: avoid confusion visitors
+
     a. logo placed in the top left-hand corner
     b. navigation links running across the top
     c. footer and what type of info they usually contain: social media links and address
