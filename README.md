@@ -58,6 +58,7 @@ Best Practices of Modern Web Development
 
 ## Accessibility
 1) Validate your code: follow Web Content Accessibility Guidelines (WCAG 2.0)
+
    [Four WCAG Principles](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head)
    - Perceivable: Information and user interface components must be presentable to users in ways they can perceive
    - Operable: User interface components and navigation must be operable
