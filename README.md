@@ -18,10 +18,19 @@ Best Practices of Modern Web Development
 **User Interface (UI) design:**
 1) Keep a simple interface: avoid unnecessary elements, clear for labels and error messages, and reduce frustration for users
 2) Keep web page consistency
-3) Be purposeful in page layout: draw attention to the most important pieces of information, such as checkout button
+3) Be purposeful in page layout: draw attention to the most important pieces of information, such as checkout button in an Ecommerce website
 4) Use color and texture strategically : attention toward or redirect attention away from items using color, light, contrast, and texture to your advantage
 5) Use typography to create hierarchy and clarity: different sizes, fonts, and arrangement of the text to help increase readability.
 
+**User Experience (UX):**
+1) Avoid giving visitors too many options
+2) Avoid external links: keep users on your website as long as possible
+3) Make responsive website
+4) For long text/paragraph, make proper width
+5) Use common/established/standard design patterns: avoid confusion visitors. 
+    a. logo placed in the top left-hand corner
+    b. navigation links running across the top
+    c. footer and what type of info they usually contain: social media links and address
 
 **HTML:**
 1) Do not use tabular layouts, it is not user friendly for screen readers
