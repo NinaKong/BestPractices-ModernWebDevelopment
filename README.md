@@ -38,10 +38,9 @@ Best Practices of Modern Web Development
 3) Make responsive website
 4) For long text/paragraph, make proper width
 5) Use common/established/standard design patterns: avoid confusion visitors
-
-    a. logo placed in the top left-hand corner
-    b. navigation links running across the top
-    c. footer and what type of info they usually contain: social media links and address
+   - logo placed in the top left-hand corner
+   - navigation links running across the top
+   - footer and what type of info they usually contain: social media links and address
 
 ## Usability
 1) Identify the users and improve design: SEO and usability work together to create persuasive design
