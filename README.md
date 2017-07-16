@@ -1,7 +1,7 @@
 # BestPractices-ModernWebDevelopment
 Best Practices of Modern Web Development
 
-## Table of Contents
+## Best Practices Table of Contents
   - [Search Engine Optimization (SEO)](#search-engine-optimization-seo)
   - [User Interface (UI) design](#user-interface-ui-design)
   - [User Experience (UX)](#user-experience-ux)
@@ -10,7 +10,6 @@ Best Practices of Modern Web Development
   - [Javascript](#javascript)
   - [Image](#image)
   
-
 ## Search Engine Optimization (SEO)
 1) Title tag: use the most important target keyword
    ```
