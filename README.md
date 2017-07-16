@@ -6,6 +6,9 @@ Best Practices of Modern Web Development
   - [User Interface (UI) design](#user-interface-ui-design)
   - [User Experience (UX)](#user-experience-ux)
   - [HTML](#html)
+  - [CSS](#css)
+  - [Javascript](#javascript)
+  - [Image](#image)
   
 
 ## Search Engine Optimization (SEO)
