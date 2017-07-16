@@ -44,6 +44,14 @@ Best Practices of Modern Web Development
     c. footer and what type of info they usually contain: social media links and address
 
 ## Usability
+1) Identify the users and improve design: SEO and usability work together to create persuasive design
+2) Know your devices: in order to maximize the customer's purchase
+3) Find usability errors to improve SEO
+4) Cut down your load time
+   a. Compress your images to smaller file sizes
+   b. Use CSS for the layout of your website
+   c. Reduce the number of HTTP requests
+   d. Set up browser caching
 
 ## Accessibility
 
