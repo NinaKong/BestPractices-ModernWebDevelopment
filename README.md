@@ -12,7 +12,7 @@ Best Practices of Modern Web Development
    <meta name="description” content=”Your page meta description, no more than 160 characters.”/>
    ```
 3) Add Image tag
-4) Clean URLs:  [ https://www.example.com/category/product-name ]
+4) Clean URLs:  https://www.example.com/category/product-name
 5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
 
 **User Interface (UI) design:**
