@@ -38,19 +38,23 @@ Best Practices of Modern Web Development
 3) Make responsive website
 4) For long text/paragraph, make proper width
 5) Use common/established/standard design patterns: avoid confusion visitors
-   - logo placed in the top left-hand corner
-   - navigation links running across the top
-   - footer and what type of info they usually contain: social media links and address
+   - Logo placed in the top left-hand corner
+   - Navigation links running across the top
+   - Footer and what type of info they usually contain: social media links and address
 
 ## Usability
 1) Identify the users and improve design: SEO and usability work together to create persuasive design
-2) Know your devices: in order to maximize the customer's purchase
-3) Find usability errors to improve SEO
-4) Cut down your load time
-   a. Compress your images to smaller file sizes
-   b. Use CSS for the layout of your website
-   c. Reduce the number of HTTP requests
-   d. Set up browser caching
+2) Know your devices screen sizes: in order to maximize the customer's purchase and responsive for viewing on mobile devices
+3) Support most of browser: Internet Explorer, Mozilla Firefox, Google Chrome, Opera, and Safari
+4) Find usability errors to improve SEO
+5) Cut down your load time
+   - Compress your images to smaller file sizes
+   - Use CSS for the layout of your website
+   - Reduce the number of HTTP requests
+   - Set up browser caching
+6) 404 Error Page helpful
+   - Design the page in a brand-cohesive way
+   - Give visitors an easily way to contact you to inform the error
 
 ## Accessibility
 
