@@ -2,7 +2,7 @@
 Best Practices of Modern Web Development
 
 
-Search Engine Optimization (SEO):
+**Search Engine Optimization (SEO):**
 1) Title tag: use the most important target keyword
    ```
    <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
@@ -15,7 +15,7 @@ Search Engine Optimization (SEO):
 4) Clean URLs: https://www.example.com/category/product-name
 5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
 
-User Interface (UI) design:
+**User Interface (UI) design:**
 1) Keep a simple interface: avoid unnecessary elements, clear for labels and error messages, and reduce frustration for users
 2) Keep web page consistency
 3) Be purposeful in page layout: draw attention to the most important pieces of information, such as checkout button
@@ -23,13 +23,13 @@ User Interface (UI) design:
 5) Use typography to create hierarchy and clarity: different sizes, fonts, and arrangement of the text to help increase readability.
 
 
-HTML:
+**HTML:**
 1) Do not use tabular layouts, it is not user friendly for screen readers
 2) Try to use percentage for width/height, it is better for responsive website
 3) Decrease unnecessary tages to reduce page weight
 4) Quality code: cleaner and concise code, and code weight
 
-CSS:
+**CSS:**
 1) Do not use inline CSS styles 
 2) Ultilize minified CSS file
 3) Avoide to use duplicated styles
@@ -89,7 +89,7 @@ CSS:
     .btn--orange {} 
     .btn--big {}
     ```
-Javascript:
+**Javascript:**
 1) Combine all the script files 
 2) Do not use inline script if possible
 3) Use minified javascript file
@@ -121,6 +121,6 @@ Javascript:
    ```
    
 
-Image:
+**Image:**
 
 
