@@ -5,6 +5,8 @@ Best Practices of Modern Web Development
   - [Search Engine Optimization (SEO)](#search-engine-optimization-seo)
   - [User Interface (UI) design](#user-interface-ui-design)
   - [User Experience (UX)](#user-experience-ux)
+  - [Usability](#usability)
+  - [Accessibility](#accessibility)
   - [HTML](#html)
   - [CSS](#css)
   - [Javascript](#javascript)
@@ -40,6 +42,10 @@ Best Practices of Modern Web Development
     a. logo placed in the top left-hand corner
     b. navigation links running across the top
     c. footer and what type of info they usually contain: social media links and address
+
+## Usability
+
+## Accessibility
 
 ## HTML
 1) Do not use tabular layouts, it is not user friendly for screen readers
