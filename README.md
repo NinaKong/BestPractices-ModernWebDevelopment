@@ -2,7 +2,7 @@
 Best Practices of Modern Web Development
 
 
-##Search Engine Optimization (SEO):
+## Search Engine Optimization (SEO):
 1) Title tag: use the most important target keyword
    ```
    <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
