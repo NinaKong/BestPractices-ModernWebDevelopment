@@ -72,7 +72,7 @@ Best Practices of Modern Web Development
       overflow: hidden;
       box-sizing: border-box;
       width: 100px;
-      height: 100px;
+      height: 100px; 
       padding: 10px;
       border: 10px solid #333;
       margin: 10px;
