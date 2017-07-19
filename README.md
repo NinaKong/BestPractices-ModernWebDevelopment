@@ -3,6 +3,7 @@ Best Practices of Modern Web Development
 
 ## Best Practices Table of Contents
   - [Search Engine Optimization (SEO)](#search-engine-optimization-seo)
+  - [Accelerated Mobile Pages (AMP)](#accelerated-obile-pages-amp)
   - [User Interface (UI) design](#user-interface-ui-design)
   - [User Experience (UX)](#user-experience-ux)
   - [Usability](#usability)
@@ -27,7 +28,7 @@ Best Practices of Modern Web Development
     ```
 4) Clean URLs:  https://www.example.com/category/product-name
 5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
-
+## Accelerated Mobile Pages (AMP)
 ## User Interface (UI) design
 1) Keep a simple interface: avoid unnecessary elements, clear for labels and error messages, and reduce frustration for users
 2) Keep web page consistency
