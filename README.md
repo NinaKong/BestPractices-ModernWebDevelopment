@@ -11,6 +11,7 @@ Best Practices of Modern Web Development
   - [HTML](#html)
   - [CSS](#css)
   - [Javascript](#javascript)
+  - [Responsive Designs](#responsive-designs)
   - [Image](#image)
   
 ## Search Engine Optimization (SEO)
@@ -84,10 +85,18 @@ Best Practices of Modern Web Development
 8) Try to avoid slideshow
 
 ## HTML
-1) Do not use tabular layouts, it is not user friendly for screen readers
+1) Do not use tabular layouts, it is not user friendly for screen readers; only use them when you need to display tabular data
 2) Try to use percentage for width/height, it is better for responsive website
 3) Decrease unnecessary tages to reduce page weight
 4) Quality code: cleaner and concise code, and code weight
+5) HTML5 Elements: to provide semantic value and make use of HTML5 elements such as <header>, <nav>, and <footer>, however, do not apply IDs or classes to them, since older browsers do not understand some of HTML5 elements by default and do not apply styling to them.
+    ```
+    <footer>
+      <div class="site-footer">
+          ...
+      </div>
+    </footer>
+    ```
 
 ## CSS
 1) Do not use inline CSS styles 
@@ -149,6 +158,10 @@ Best Practices of Modern Web Development
     .btn--orange {} 
     .btn--big {}
     ```
+8) Avoid using !important
+
+
+
 ## Javascript
 1) Combine all the script files 
 2) Do not use inline script if possible
@@ -179,7 +192,32 @@ Best Practices of Modern Web Development
    ```
    xhr.send();
    ```
-   
+6) Avoid using document.write   
+
+## Responsive Designs
+1) Percentage-based grids
+2) Flexible scaled images
+3) CSS media queries
+   ```
+    .example {...}
+    @media(min-width: 480) {
+      .example {
+
+      }  
+    }
+
+    @media(min-width: 768px) {
+      .example {
+
+      }  
+    }
+
+    @media(min-width: 1024px) {
+      .example {
+      
+      }  
+    }
+   ```
 
 ## Image
 
