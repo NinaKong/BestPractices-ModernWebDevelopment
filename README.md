@@ -97,7 +97,7 @@ Best Practices of Modern Web Development
       </div>
     </footer>
     ```
-6) Validation: if it is correct, it may affect page performance, accessibility, and SEO. The W3C validator can be found [here](http://validator.w3.org/)
+6) Validation: if it is not correct, it may affect page performance, accessibility, and SEO. The W3C validator can be found [here](http://validator.w3.org/)
 
 ## CSS
 1) Do not use inline CSS styles 
