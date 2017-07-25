@@ -101,7 +101,7 @@ Best Practices of Modern Web Development
 
 ## CSS
 1) Do not use inline CSS styles 
-2) Ultilize minified CSS file
+2) Ultilize minified and compressed CSS file
 3) Avoide to use duplicated styles
 4) Even though CSS files are downloaded in parallel, combine all the CSS files if possible, it can reduce the http calls to server
 5) Consider for browser compatibilities, do not style in a HTML5 element, use .header instead
@@ -194,6 +194,7 @@ Best Practices of Modern Web Development
    xhr.send();
    ```
 6) Avoid using document.write   
+7) Avoid using global variables, wrap them in closures
 
 ## Responsive Designs
 1) Percentage-based grids
@@ -221,5 +222,6 @@ Best Practices of Modern Web Development
    ```
 
 ## Image
-
+1) Use .jpg for background image
+2) Use .svg or .png as logo
 
