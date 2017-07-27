@@ -8,7 +8,7 @@ Best Practices of Modern Web Development
   - [User Experience (UX)](#user-experience-ux)
   - [Usability](#usability)
   - [Accessibility](#accessibility)
-  - [HTML](#html)
+  - [Hypertext Markup Language (HTML)](#html)
   - [CSS](#css)
   - [Javascript](#javascript)
   - [Responsive Designs](#responsive-designs)
