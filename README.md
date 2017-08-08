@@ -196,6 +196,10 @@ Best Practices of Modern Web Development
    ```
 6) Avoid using document.write   
 7) Avoid using global variables, wrap them in closures
+8) Use fast DOM traversal with document.getElementById()
+9) Use CSS classes instead of JavaScript for DOM animation
+10) Keep the HTML clean and get rid of all those useless DIV and SPAN tags
+11) Build DOM separately before adding it to the page
 
 ## Responsive Designs
 1) Percentage-based grids
