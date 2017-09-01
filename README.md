@@ -90,7 +90,7 @@ Best Practices of Modern Web Development
 2) Try to use percentage for width/height, it is better for responsive website
 3) Decrease unnecessary tages to reduce page weight
 4) Quality code: cleaner and concise code, and code weight
-5) HTML5 Elements: to provide semantic value and make use of HTML5 elements such as <header>, <nav>, and <footer>, however, do not apply IDs or classes to them, since older browsers do not understand some of HTML5 elements by default and do not apply styling to them.
+5) HTML5 Elements: to provide semantic value and make use of HTML5 elements such as ```<header>```, ```<nav>```, and ```<footer>```, however, do not apply IDs or classes to them, since older browsers do not understand some of HTML5 elements by default and do not apply styling to them.
     ```
     <footer>
       <div class="site-footer">
