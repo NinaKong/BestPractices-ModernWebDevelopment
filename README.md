@@ -207,6 +207,7 @@ Best Practices of Modern Web Development
 3) CSS media queries
    ```
     .example {...}
+    
     @media(min-width: 480px) {
       .example {
 
