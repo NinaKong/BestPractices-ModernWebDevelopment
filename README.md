@@ -206,8 +206,7 @@ Best Practices of Modern Web Development
 2) Flexible scaled images
 3) CSS media queries
    ```
-    .example {...}
-    
+    .example {...}    
     @media(min-width: 480px) {
       .example {
 
