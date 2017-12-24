@@ -15,20 +15,26 @@ Best Practices of Modern Web Development
   - [Image](#image)
   
 ## Search Engine Optimization (SEO)
-1) Title tag: use the most important target keyword
-   ```
-   <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
-   ```
-2) Meta description: it is not used for ranking directly, but still important for SEO
-   ```
-   <meta name="description” content=”Your page meta description, no more than 160 characters.”/>
-   ```
-3) Add Image tag
+1) Cross-device. Google state responsive design is the preferred method of optimization, better for SERP (search engine result page)
+2) Meta description and page: every page should only have one h1-tag to make the title clear to Google.
+   - Title tag: use the most important target keyword
+    ```
+    <title>SEO | SEO Best Practices | SEO for Front End Developers</title>
+    ```
+   - Meta description: it is not used for ranking directly, but still important for SEO
+    ```
+    <meta name="description” content=”Your page meta description, no more than 160 characters.”/>
+    ```
+3) Schema markup
+4) Properly tagged images
     ```
     <img src="smile-face.gif" alt="Smile face">
     ```
-4) Clean URLs:  https://www.example.com/category/product-name
-5) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
+5) Site speed: if the website speed is slow, google will punish
+6) User experience: know the goal of website, get potential clients to by something as quickly and smooth as possible
+7) Content: should not have duplicate content. Update index and content is good for ecommerce website
+8) Clean URLs:  https://www.example.com/category/product-name
+9) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
 ## Accelerated Mobile Pages (AMP)
 ## User Interface (UI) design
 1) Keep a simple interface: avoid unnecessary elements, clear for labels and error messages, and reduce frustration for users
