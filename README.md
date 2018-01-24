@@ -31,7 +31,7 @@ Best Practices of Modern Web Development
     <img src="smile-face.gif" alt="Smile face">
     ```
 5) Site speed: if the website speed is slow, google will punish
-6) User experience: know the goal of website, get potential clients to by something as quickly and smooth as possible
+6) User experience: know the goal of website, get potential clients to buy something as quickly and smooth as possible
 7) Content: should not have duplicate content. Update index and content is good for ecommerce website
 8) Clean URLs:  https://www.example.com/category/product-name
 9) Semantic markup: not only helps SEO, but also goods for screen readers. It is also benefit the site's visitors and provides them an improved user experience.
